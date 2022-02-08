@@ -3,6 +3,21 @@
 ## Here's an addition to the readme
 # Fantastic Four
 
+
+## Have you ever wondered what to watch? Why not let the weather help you out?!
+### This Group Project:
+1. Uses a CSS framework other than Bootstrap.
+2. Is deployed to GitHub Pages.
+3. Is interactive (accepts city input and save movie option)
+4. Uses two server-side APIs.
+5. Does not use alerts, confirms, or prompts (use modals).
+6. Uses client-side storage to store persistent data (save movie option)
+7. Is responsive.
+8. Has a polished UI.
+9. Has a clean repository that meets quality coding standards
+10. Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+11. Is added to our project portfolio's created in Module 2.
+
 Repo for project 1
 
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
